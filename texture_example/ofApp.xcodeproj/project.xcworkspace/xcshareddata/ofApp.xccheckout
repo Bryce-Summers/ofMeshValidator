@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8A75CB05-36F4-421A-A25B-483CE072A595</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ofApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</key>
+		<string>https://github.com/openframeworks/openFrameworks.git</string>
+		<key>BEC220436EFC41B73DA6D10044042E637CD329BE</key>
+		<string>https://github.com/Bryce-Summers/ofxButterfly.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example/ofApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</key>
+		<string>../../../..</string>
+		<key>BEC220436EFC41B73DA6D10044042E637CD329BE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Bryce-Summers/ofxButterfly.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BEC220436EFC41B73DA6D10044042E637CD329BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BEC220436EFC41B73DA6D10044042E637CD329BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxButterfly</string>
+		</dict>
+	</array>
+</dict>
+</plist>
