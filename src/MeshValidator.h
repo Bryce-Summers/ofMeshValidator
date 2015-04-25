@@ -2,7 +2,7 @@
 //  MeshValidator.h
 //  ofApp
 //
-//  Created by Tube on 10/1/14.
+//  Created by Bryce Summers on 10/1/14.
 //
 //
 
